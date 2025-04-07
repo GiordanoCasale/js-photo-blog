@@ -31,12 +31,12 @@ body{
    
 }
  .card-title{
-    font-family: "Sometype Mono";
-    font-size: 25px;
+     font-family: "monospace";
+     font-size: 25px;
  }
 
  .date{
-    font-family: "monospace";
+    font-family: "Sometype Mono";
     font-size: 25px;
  }
 
